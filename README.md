@@ -16,7 +16,7 @@ In the first part of this project, I started by converting the CSV document to J
 3. Remove data in the columns 'What you will learn', 'Skill gain', and 'Level' that contained the string 'Not specified'.
 4. Remove unnecessary columns from the database.
 
-See code: 
+See code: https://github.com/liannfinlayson26/Coursera-Courses-Analysis-SQL/blob/main/Data_Cleaning_CourseraCourses.sql
 
 ## Exploratory Analysis 
 
