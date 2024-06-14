@@ -22,13 +22,21 @@ See code: https://github.com/liannfinlayson26/Coursera-Courses-Analysis-SQL/blob
 
 A parte de limpiar la data, me interesa entender que siguientes cursos podría hacer que me beneficien, por eso realice los siguientes queries:
 1. Qué cursos existen de Data Science con los mejores ratings y la mayor cantidad de reviews.
-2. Qué cursos existen de Computer Science con niveles Intermediate and Advance existen y con los mejores ratings.
+2. Qué cursos existen de Computer Science con niveles Intermediate and Advance y con los mejores ratings.
 3. Qué cursos de Universidades con los mejores ratings y la mayor cantidad de reviews.
 4. Qué cursos podría realizar en la menor cantidad de tiempo en duración de grandes compañias como Google.
 5. Qué cursos en Business podría realizar con un Flexible Schedule.
 
-De los que pude concluir que:
-1. 
+De los que pude concluir que:.
+1. Los top 5 mejores cursos con categoría de Data Science son 4.8 de rating y + de 10000 reviews son:
+   * Structuring Machine Learning Projects by Deep Learning AI with a 4.8 rating and 
+   * Using Python to Access Web data by University of Michigan with a 4.8 rating and 
+   * Crash Course on Python by Google with a 4.8 rating and 
+   * Sequence Models by Deep Learning AI with a 4.8 rating and 
+   * Prepare data for Exploration by Google witha  4.8 rating and
+  
+2. Los top 3 mejores cursos con categoría de Computer Science son
+   * 
 
 ## Sources:
 1. What is Coursera: www.coursera.org.
