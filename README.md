@@ -20,12 +20,15 @@ See code: https://github.com/liannfinlayson26/Coursera-Courses-Analysis-SQL/blob
 
 ## Exploratory Analysis 
 
-A parte de limpiar la data, me interesa entender que siguientes cursos podría hacer que me beneficien, por eso realice los siguientes queries:
-1. Qué cursos existen de Data Science con los mejores ratings y la mayor cantidad de reviews.
-2. Qué cursos existen de Computer Science con niveles Intermediate and Advance y con los mejores ratings.
-3. Qué cursos de Universidades con los mejores ratings y la mayor cantidad de reviews.
-4. Qué cursos podría realizar en la menor cantidad de tiempo en duración de grandes compañias como Google.
-5. Qué cursos en Business podría realizar con un Flexible Schedule.
+
+ChatGPT
+Apart from cleaning the data, I'm interested in understanding which following courses could benefit me, so I made the following queries:
+
+1. What Data Science courses have the best ratings and the highest number of reviews?
+2. Which Computer Science courses at Intermediate and Advanced levels have the best ratings?
+3. Which University courses have the best ratings and the highest number of reviews?
+4. Which courses from major companies like Google have the shortest duration?
+5. Which Business courses offer a Flexible Schedule?
 
 De los que pude concluir que:.
 1. Los top 5 mejores cursos con categoría de Data Science son 4.8 de rating y + de 10000 reviews son:
