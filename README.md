@@ -20,7 +20,7 @@ See code: https://github.com/liannfinlayson26/Coursera-Courses-Analysis-SQL/blob
 
 ## Exploratory Analysis 
 
-See code:
+See code: https://github.com/liannfinlayson26/Coursera-Courses-Analysis-SQL/blob/main/Data_Exploration_CourseraCourses.sql
 
 Apart from cleaning the data, I'm interested in understanding which following courses could benefit me, so I made the following queries:
 
@@ -66,7 +66,8 @@ One of the courses I would like to complete from this section is "The Science of
   Google Data Analytics Professional Certificate would take me approx. 24 weeks or 6 months to complete if I study 10 hours a week. 
   I could complete the other two courses in approximately 2 or 3 weeks if I study 6 or 7 hours a week, respectively.
 
-5. 
+5. It is concluded that the flexibility of the 3 courses that interest me is:
+Flexible Schedule
 
 ## Sources:
 1. What is Coursera: www.coursera.org.
