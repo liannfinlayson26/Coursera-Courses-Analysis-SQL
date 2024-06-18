@@ -20,8 +20,6 @@ See code: https://github.com/liannfinlayson26/Coursera-Courses-Analysis-SQL/blob
 
 ## Exploratory Analysis 
 
-
-ChatGPT
 Apart from cleaning the data, I'm interested in understanding which following courses could benefit me, so I made the following queries:
 
 1. What Data Science courses have the best ratings and the highest number of reviews?
