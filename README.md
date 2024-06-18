@@ -20,14 +20,15 @@ See code: https://github.com/liannfinlayson26/Coursera-Courses-Analysis-SQL/blob
 
 ## Exploratory Analysis 
 
+See code:
+
 Apart from cleaning the data, I'm interested in understanding which following courses could benefit me, so I made the following queries:
 
 1. What Data Science courses have the best ratings and the highest number of reviews?
 2. Which Computer Science courses at Intermediate and Advanced levels have the best ratings?
 3. Which University courses have the best ratings and the highest number of reviews?
 4. How many hours would I need to invest to complete the courses that interest me?
-5. Which courses from major companies like Google have the shortest duration?
-6. Which Business courses offer a Flexible Schedule?
+5. Do the courses that interest me have a flexible schedule?
 
 From what I could conclude:
 1. The top 5 best-rated Data Science courses with a rating of 4.8 and more than 10,000 reviews are:
@@ -63,6 +64,7 @@ One of the courses I would like to complete from this section is "The Science of
   * The Science of Well-Being could be completed in a estimated time of 19 hours.
 
   Google Data Analytics Professional Certificate would take me approx. 24 weeks or 6 months to complete if I study 10 hours a week. 
+  I could complete the other two courses in approximately 2 or 3 weeks if I study 6 or 7 hours a week, respectively.
 
 5. 
 
