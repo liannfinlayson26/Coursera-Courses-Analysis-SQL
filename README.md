@@ -25,19 +25,46 @@ Apart from cleaning the data, I'm interested in understanding which following co
 1. What Data Science courses have the best ratings and the highest number of reviews?
 2. Which Computer Science courses at Intermediate and Advanced levels have the best ratings?
 3. Which University courses have the best ratings and the highest number of reviews?
-4. Which courses from major companies like Google have the shortest duration?
-5. Which Business courses offer a Flexible Schedule?
+4. How many hours would I need to invest to complete the courses that interest me?
+5. Which courses from major companies like Google have the shortest duration?
+6. Which Business courses offer a Flexible Schedule?
 
-De los que pude concluir que:.
-1. Los top 5 mejores cursos con categoría de Data Science son 4.8 de rating y + de 10000 reviews son:
-   * Structuring Machine Learning Projects by Deep Learning AI with a 4.8 rating and 
-   * Using Python to Access Web data by University of Michigan with a 4.8 rating and 
-   * Crash Course on Python by Google with a 4.8 rating and 
-   * Sequence Models by Deep Learning AI with a 4.8 rating and 
-   * Prepare data for Exploration by Google witha  4.8 rating and
-  
-2. Los top 3 mejores cursos con categoría de Computer Science son
-   * 
+From what I could conclude:
+1. The top 5 best-rated Data Science courses with a rating of 4.8 and more than 10,000 reviews are:
+   * Structuring Machine Learning Projects by Deep Learning AI with a 4.8 rating and 49563 reviews.
+   * Using Python to Access Web data by University of Michigan with a 4.8 rating and 43837 reviews.
+   * Crash Course on Python by Google with a 4.8 rating and 35221 reviews.
+   * Sequence Models by Deep Learning AI with a 4.8 rating and 29769 reviews.
+   * Prepare data for Exploration by Google with a 4.8 rating and 18342 reviews.
+
+ One of the courses I would like to do in this section is Using Python to Access Web Data by University of Michigan 
+
+2. The top 3 best-rated Computer Science courses at the Beginner level are:
+   * Programming for Everybody (Getting Startet with Python by University of Michigan with a 4.8 rating and 225830 reviews.
+   * Python for Everybody Specialization by University of Michigan with a 4.8 rating and 209311 reviews.
+   * Google Data Analytics Professional Certificate with a 4.8 rating and 130435 reviews.
+
+There are no courses with a rating higher than 4.7 and more than 10,000 reviews in the Beginner level category.
+One of the courses I would like to take from this section is the Google Data Analytics Professional Certificate.
+
+3. The top 7 courses from Universities with ratings of 4.9 are:
+   * COVID-19 Contact Tracing by John Hopkings University in Health category
+   * Excel Skills for Business Especialization by Macquarie University in Business Category
+   * Excel Skills for Business Essentials by Macquarie University in Business Category
+   * Introduction to Psychology by Yale University in Math and Logic
+   * Python Data Structures by University of Michigan
+   * The Science of Well-Being by Yale University
+
+One of the courses I would like to complete from this section is "The Science of Well-Being" by Yale University.
+
+4. The duration of the courses that interest me is as follows:
+  * Using Python to Access Web Data could be completed in a estimated time of 19 hours.
+  * Google Data Analytics Professional Certificate could be completed in a estimated time of 240 hours.
+  * The Science of Well-Being could be completed in a estimated time of 19 hours.
+
+  Google Data Analytics Professional Certificate would take me approx. 24 weeks or 6 months to complete if I study 10 hours a week. 
+
+5. 
 
 ## Sources:
 1. What is Coursera: www.coursera.org.
